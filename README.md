@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub.
-My name is Evalie 
+My name is Evalie :)
